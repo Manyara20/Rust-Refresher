@@ -15,12 +15,18 @@ https://www.rust-lang.org/learn
 When you install Rustup you’ll also get the latest stable version of the Rust build tool and package manager, also known as Cargo. Cargo does lots of things:
 
 build your project with **_cargo build_**
+
 run your project with **_cargo run_**
+
 test your project with **_cargo test_**
+
 build documentation for your project with **_cargo doc_**
-publish a library to crates.io with **_cargo publish_
+
+publish a library to crates.io with **_cargo publish_**
 **
+
 To test that you have Rust and Cargo installed, you can run this in your terminal of choice:
-_cargo --version_
+
+**_cargo --version_**
 
 
